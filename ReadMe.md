@@ -169,7 +169,7 @@ MongoDB).<br>📫 Feel free to reach out to me via
 
   <p>
     <em><strong>
-      ✨ "Everyone is a winner — they just haven't tried yet." ✨
+      ✨ "Dream beyond limits, code with passion, and turn ideas into reality." ✨
     </strong></em>
   </p>
 
