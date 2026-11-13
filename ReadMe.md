@@ -80,7 +80,7 @@ MongoDB).<br>📫 Feel free to reach out to me via
 
 <!--- main technology --->
 
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b>Main Technological Stack:</b>
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b>Main Technology Stack:</b>
 
 ### Languages:
 
