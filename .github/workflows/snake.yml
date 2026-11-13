@@ -1,0 +1,45 @@
+name: Premium Animated Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 1 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository (for custom artwork script)
+        uses: actions/checkout@v4
+
+      - name: Generate real GitHub contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/raw-light.svg?color_snake=#008B81&color_dots=#E1F0F1,#B5E0DE,#70C5BB,#32AFA0,#137C78
+            dist/raw-dark.svg?color_snake=#6EFCE0&color_dots=#122A38,#165C68,#207E81,#35B8A8,#A8FFD6
+
+      - name: Apply premium theme with neon glow and glass-style frame
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: |
+          python3 scripts/enhance_snake.py --input dist/raw-dark.svg --output dist/grid-dark.svg --theme dark --username "$GH_USERNAME"
+          python3 scripts/enhance_snake.py --input dist/raw-light.svg --output dist/grid.svg --theme light --username "$GH_USERNAME"
+          rm dist/raw-dark.svg dist/raw-light.svg
+
+      - name: Publish animated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
