@@ -154,6 +154,109 @@ MongoDB).<br>📫 Feel free to reach out to me via
 
 ![](https://github-contributor-stats.vercel.app/api?username=MdKhairulHassan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- =============================== -->
+<!-- 💜 PREMIUM GITHUB PROFILE FOOTER -->
+<!-- Theme: Dark Navy • Purple • Cyan -->
+<!-- =============================== -->
+
+<div align="center">
+
+  <!-- Elegant Gradient Divider -->
+
+<img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1628,50:7257E8,100:22D3EE&height=4"
+    width="100%"
+    alt="Gradient Divider"
+  />
+
+<br/><br/>
+
+  <!-- Animated Welcome Message -->
+
+<img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=9B85FF&center=true&vCenter=true&width=800&height=60&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9C;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+create+something+amazing!+%E2%9C%A8"
+    alt="Animated Welcome"
+  />
+
+  <br/>
+
+  <!-- Personal Motto -->
+  <h2>💬 My Motto</h2>
+
+  <h3>
+    <em>
+      "Everyone is a winner —<br/>
+      they just haven't tried yet."
+    </em>
+  </h3>
+
+  <p>
+    <strong>✨ Dream Big • Code Smart • Never Stop Learning ✨</strong>
+  </p>
+
+  <br/>
+
+  <!-- Collaboration Button -->
+  <a href="mailto:mdkhairulhasan344@gmail.com">
+    <img
+      src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20AMAZING-7257E8?style=for-the-badge&logo=github&logoColor=white"
+      alt="Let's Collaborate"
+    />
+  </a>
+
+<br/><br/>
+
+  <!-- Contact Badges -->
+
+<img
+    src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2563EB?style=flat-square&logo=googlemaps&logoColor=white"
+    alt="Dhaka Bangladesh"
+  />
+
+  <a href="mailto:mdkhairulhasan344@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="tel:+8801302558478">
+    <img
+      src="https://img.shields.io/badge/Phone-%2B8801302558478-0891B2?style=flat-square&logo=whatsapp&logoColor=white"
+      alt="Phone"
+    />
+  </a>
+
+<br/><br/>
+
+  <!-- GitHub Repository Button -->
+  <a href="https://github.com/MdKhairulHassan?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore%20My%20Projects-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE"
+      alt="Explore My Projects"
+    />
+  </a>
+
+<br/><br/>
+
+  <!-- Closing Message -->
+  <sub>
+    💜 Crafted with passion, powered by curiosity,
+    and inspired by endless possibilities.
+  </sub>
+
+<br/><br/>
+
+  <!-- Premium Gradient Wave -->
+
+<img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,35:31317A,70:7257E8,100:22D3EE&height=150&section=footer"
+    width="100%"
+    alt="Premium Gradient Footer"
+  />
+
+</div>
+
 ---
 
 [![](https://komarev.com/ghpvc/?username=MdKhairulHassan&icon=0&color=0)](https://visitcount.itsvg.in)
